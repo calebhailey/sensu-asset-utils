@@ -12,7 +12,7 @@ do
     in
       h)
         echo "NAME"
-        echo "  create-sensu-asset -- creates Sensu 2 asset packages (tarballs)."
+        echo "  create-sensu-asset -- creates Sensu Go asset packages (tarballs)."
         echo
         echo "SYNOPSIS"
         echo "  create-sensu-asset -a ASSET_NAME -v ASSET_VERSION -b /path/to/executable/script/or/binary"
